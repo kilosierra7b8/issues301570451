@@ -63,6 +63,5 @@ Always (for my cases, device is 10cm above from the object).
 
 IMAGES
 
-![Auto](https://github.com/kilosierra7b8/issues301570451/assets/152163337/6582e8c8-6062-4279-b19a-738800ed3dc8)
-![Manual](https://github.com/kilosierra7b8/issues301570451/assets/152163337/f343b648-ae38-48cb-8e8e-8a21defa786a)
-
+![Auto](https://github.com/kilosierra7b8/issues301570451/assets/152163337/4f7983b0-3da3-4835-9ba0-a79b000fdd13)
+![Manual](https://github.com/kilosierra7b8/issues301570451/assets/152163337/4a22b835-a3a5-4321-ae44-3308c9617d07)
